@@ -24,7 +24,7 @@ body {
 	padding: 10px 0 30px 0;
 	background-color: whitesmoke;
 	background-image: url("../assets/images/monuments.svg");
-	background-size: 80%;
+	background-size: 90%;
 	background-repeat: no-repeat;
 	background-position: bottom center;
 }
@@ -209,4 +209,13 @@ img {
 
 .card + .card {
 	margin-top: 30px;
+}
+
+.btn-2 {
+	color: #fff;
+	border: 2px solid #ed3150;
+	&:hover {
+		background-color: #ed3150;
+		color: #fff;
+	}
 }
