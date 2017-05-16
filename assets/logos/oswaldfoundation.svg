@@ -1,0 +1,32 @@
+<svg width="586px" height="125px" viewBox="0 0 586 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M347,38 L0,38 L0,121 L455,121 L455,40 L455,0 L347,0 L347,38 Z" id="path-1"></path>
+        <path d="M347,38 L0,38 L0,121 L455,121 L455,40 L455,0 L347,0 L347,38 Z" id="path-3"></path>
+    </defs>
+    <g id="Wordmark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(131.000000, 0.000000)">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g id="Mask"></g>
+        <text id="oswdldtech" mask="url(#mask-2)" font-family="ProximaNova-Semibold, Proxima Nova" font-size="144" font-weight="500" fill="#222222">
+            <tspan x="3" y="110">oswdld</tspan>
+            <tspan x="3" y="282">tech</tspan>
+        </text>
+    </g>
+    <g id="Wordmark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(131.000000, 0.000000)">
+        <mask id="mask-4" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <g id="Mask"></g>
+        <text id="oswdldtech" mask="url(#mask-4)" font-family="ProximaNova-Semibold, Proxima Nova" font-size="144" font-weight="500" fill="#222222">
+            <tspan x="3" y="110">oswdld</tspan>
+            <tspan x="3" y="282">tech</tspan>
+        </text>
+    </g>
+    <g id="Symbol" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 9.000000)">
+        <path d="M58,116 C90.0325155,116 116,90.0325155 116,58 C116,25.9674845 90.0325155,0 58,0 C25.9674845,0 0,25.9674845 0,58 C0,90.0325155 25.9674845,116 58,116 Z M58.5,105 C84.7335256,105 106,83.7335256 106,57.5 C106,31.2664744 84.7335256,10 58.5,10 C32.2664744,10 11,31.2664744 11,57.5 C11,83.7335256 32.2664744,105 58.5,105 Z" id="Combined-Shape" fill="#2790F3"></path>
+        <circle id="Oval-3" fill="#2790F3" cx="58.5" cy="57.5" r="35.5"></circle>
+    </g>
+</svg>

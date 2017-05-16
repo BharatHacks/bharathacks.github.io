@@ -1,0 +1,212 @@
+body {
+	font-family: "Hind", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+[href="#content"] {
+	position: absolute;
+	top: 20px;
+	right: 100%;
+}
+
+[href="#content"]:focus {
+	right: auto;
+	left: 20px;
+}
+
+@media print {
+	body > *:not(main) {
+		display: none;
+	}
+}
+
+#masthead {
+	position: relative;
+	padding: 10px 0 30px 0;
+	background-color: whitesmoke;
+	background-image: url("/assets/images/monuments.svg");
+	background-size: 80%;
+	background-repeat: no-repeat;
+	background-position: bottom center;
+}
+
+section {
+	padding: 10vh 0;
+	position: relative;
+	&.gray {
+		background-color: whitesmoke
+	}
+	&.lead {
+		background-color: #2d587b;
+		color: #fff;
+		margin-top: -2px;
+	}
+}
+
+p:last-child {
+	margin-bottom: 0;
+}
+
+.header-text {
+	padding: 10vh 0 30vh 0;
+	h1 {
+		font-weight: bold;
+	}
+}
+
+.bg-red {
+	background-color: #ed3150;
+	h2 {
+		color: #fff;
+	}
+	h4 {
+		color: #2d587b;
+	}
+	.card {
+		border-radius: 0;
+		box-shadow: 10px 10px 0 #2d587b;
+	}
+}
+.color-red {
+	color: #ed3150;
+}
+.color-blue {
+	color: #2d587b;
+}
+
+.num {
+	border: 2vh solid #ed3150;
+	width: 20vh;
+	height: 20vh;
+	margin: 0 auto 30px auto;
+	color: #2d587b;
+	font-weight: bold;
+	border-radius: 100%;
+	justify-content: center;
+	display: flex;
+	align-items: center;
+	font-size: 7vh;
+}
+
+.btn-nice {
+	background: transparent;
+	border: 3px solid #ed3150;
+	color: #ed3150;
+	font-size: 150%;
+	text-transform: uppercase;
+	padding: 10px 20px;
+	vertical-align: middle;
+	font-weight: bold;
+	&:hover {
+		background: #ed3150;
+		color: #fff;
+		border-color: #ed3150;
+	}
+}
+.btn i {
+	margin-left: 10px;
+}
+
+.navbar-toggler {
+	border: none
+}
+
+img {
+	max-width: 100%
+}
+.sponsors img {
+	width: 150px;
+	max-width: 80%;
+}
+
+.sponsors .col-6, .col-md-2 {
+	height: 90px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.sponsors img[alt="DigitalOcean"] { width: 190px }
+.sponsors img[alt="WisdomGeek"] { width: 175px }
+.sponsors img[alt="DesiredWings"] { width: 190px }
+.sponsors img[alt="91springboard"] { width: 190px }
+.sponsors img[alt="Melangebox"] { width: 190px }
+.sponsors img[alt="Nimblepost"] { width: 180px }
+.sponsors img[alt="Flairlift"] { width: 120px }
+.sponsors img[alt="DelhiStartups"] { width: 200px }
+.sponsors img[alt="SixteenInches"] { width: 180px }
+.sponsors img[alt="HackSociety"] { width: 180px }
+.sponsors img[alt="Startup Nexus"] { width: 180px }
+.sponsors img[alt="Delhi Angels"] { width: 180px }
+.sponsors img[alt=".tech"] { width: 110px }
+.sponsors img[alt="f6s"] { width: 60% }
+.sponsors img[alt="Facebook"] { width: 100% }
+.sponsors div { color: #888 }
+.sponsors div + a {
+	margin-top: 10px;
+	display: inline-block;
+}
+
+#colophon {
+	padding: 10vh 0;
+	background: #2d587b;
+	color: rgba(255, 255, 255, 0.75);
+	margin-top: 75px;
+	position: relative;
+	&::before {
+		content: "";
+		background-image: url("/assets/images/bg2.png");
+		background-size: auto 75px;
+		background-repeat: repeat-x;
+		background-position: bottom middle;
+		height: 75px;
+		width: 100%;
+		position: absolute;
+		left: 0; top: -75px;
+	}
+	a:not(.btn) {
+		color: #fff;
+		text-decoration: underline;
+	}
+	h4 {
+		color: #fff;
+		margin-top: -10px;
+		margin-bottom: 20px;
+	}
+}
+
+.prizes {
+	min-height: 500px;
+	background-image: url("/assets/images/bg1.png");
+	background-repeat: repeat-y;
+	background-position: right center;
+	background-size: 40%;
+	.h2 {
+		color: #2d587b;
+	}
+}
+
+.schedule {
+	min-height: 500px;
+	background-image: url("/assets/images/bg3.png");
+	background-repeat: repeat-y;
+	background-position: left center;
+	background-size: 35%;
+	.h2 {
+		color: #2d587b;
+	}
+}
+
+.rounded {
+	background: #ed3150;
+	color: #fff;
+	display: inline-block;
+	text-transform: uppercase;
+	padding: 5px 12px;
+}
+
+.display-4 {
+	font-weight: bold;
+}
+
+.card + .card {
+	margin-top: 30px;
+}
