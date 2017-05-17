@@ -47,13 +47,14 @@ p:last-child {
 }
 
 .header-text {
-	padding: 10vh 0 30vh 0;
+	padding: 15vh 0 30vh 0;
 	h1 {
 		font-weight: bold;
 	}
 }
 
 .bg-red {
+	color: rgba(255, 255, 255, 0.75);
 	background-color: #ed3150;
 	h2 {
 		color: #fff;
@@ -64,6 +65,7 @@ p:last-child {
 	.card {
 		border-radius: 0;
 		box-shadow: 10px 10px 0 #2d587b;
+		color: #000;
 	}
 }
 .color-red {
@@ -217,5 +219,46 @@ img {
 	&:hover {
 		background-color: #ed3150;
 		color: #fff;
+	}
+}
+
+.fixed-top {
+	background: whitesmoke;
+}
+.navbar-light .navbar-toggler {
+	position: fixed;
+	left: 10px;
+}
+
+@media (max-width: 500px) {
+	.col-md:not(:last-child), .col-md-4:not(:last-child) {
+		margin-bottom: 30px;
+	}
+	.col-md-3:not(:last-child) {
+		margin-bottom: 50px;
+	}
+	.prizes, .schedule {
+		background-image: none;
+	}
+}
+
+.f6s-alpha {
+	position: relative;
+	padding-bottom: 0;
+	&::before {
+		content: "";
+		position: absolute;
+		left: 15px; top: -15px;
+		width: 0;
+		height: 0;
+		border-left: 15px solid transparent;
+		border-right: 15px solid transparent;
+		border-bottom: 15px solid #ed3150;
+	}
+	.h4 {
+		color: #fff;
+	}
+	.col-md-4 {
+		margin-bottom: 20px;
 	}
 }
