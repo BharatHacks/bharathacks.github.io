@@ -76,11 +76,12 @@ p:last-child {
 }
 
 .num {
-	border: 2vh solid #ed3150;
-	width: 20vh;
-	height: 20vh;
+	width: 25vh;
+	height: 25vh;
 	margin: 0 auto 30px auto;
-	color: #2d587b;
+	background-image: url("../assets/images/bg-num.png");
+	background-size: cover;
+	color: #fff;
 	font-weight: bold;
 	border-radius: 100%;
 	justify-content: center;
