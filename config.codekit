@@ -22,6 +22,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/icons\/android-chrome-192x192.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4006,
+		"inputAbbreviatedPath": "\/assets\/icons\/android-chrome-192x192.png",
+		"outputAbbreviatedPath": "\/assets\/icons\/android-chrome-192x192.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/icons\/android-chrome-256x256.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5402,
+		"inputAbbreviatedPath": "\/assets\/icons\/android-chrome-256x256.png",
+		"outputAbbreviatedPath": "\/assets\/icons\/android-chrome-256x256.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/icons\/android-chrome-36x36.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -297,6 +319,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/icons\/apple-touch-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2484,
+		"inputAbbreviatedPath": "\/assets\/icons\/apple-touch-icon.png",
+		"outputAbbreviatedPath": "\/assets\/icons\/apple-touch-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/icons\/facebook.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -304,6 +337,28 @@
 		"initialSize": 6534,
 		"inputAbbreviatedPath": "\/assets\/icons\/facebook.png",
 		"outputAbbreviatedPath": "\/assets\/icons\/facebook.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/icons\/favicon-16x16.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 640,
+		"inputAbbreviatedPath": "\/assets\/icons\/favicon-16x16.png",
+		"outputAbbreviatedPath": "\/assets\/icons\/favicon-16x16.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/icons\/favicon-32x32.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 912,
+		"inputAbbreviatedPath": "\/assets\/icons\/favicon-32x32.png",
+		"outputAbbreviatedPath": "\/assets\/icons\/favicon-32x32.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -348,6 +403,17 @@
 		"initialSize": 0,
 		"inputAbbreviatedPath": "\/assets\/icons\/mstile-144x144.png",
 		"outputAbbreviatedPath": "\/assets\/icons\/mstile-144x144.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/icons\/mstile-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3283,
+		"inputAbbreviatedPath": "\/assets\/icons\/mstile-150x150.png",
+		"outputAbbreviatedPath": "\/assets\/icons\/mstile-150x150.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -502,6 +568,17 @@
 		"initialSize": 25171,
 		"inputAbbreviatedPath": "\/assets\/logos\/desiredwings.png",
 		"outputAbbreviatedPath": "\/assets\/logos\/desiredwings.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/logos\/digio.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21524,
+		"inputAbbreviatedPath": "\/assets\/logos\/digio.png",
+		"outputAbbreviatedPath": "\/assets\/logos\/digio.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

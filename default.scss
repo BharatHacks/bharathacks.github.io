@@ -96,7 +96,7 @@ p:last-child {
 	color: #ed3150;
 	font-size: 150%;
 	text-transform: uppercase;
-	padding: 10px 20px;
+	padding: 12.5px 20px 10px;
 	vertical-align: middle;
 	font-weight: bold;
 	&:hover {
@@ -139,6 +139,7 @@ img {
 .sponsors img[alt="HackSociety"] { width: 180px }
 .sponsors img[alt="Startup Nexus"] { width: 180px }
 .sponsors img[alt="Delhi Angels"] { width: 180px }
+.sponsors img[alt="Digio"] { width: 100px }
 .sponsors img[alt=".tech"] { width: 110px }
 .sponsors img[alt="f6s"] { width: 60% }
 .sponsors img[alt="Facebook"] { width: 100% }
@@ -203,7 +204,7 @@ img {
 	color: #fff;
 	display: inline-block;
 	text-transform: uppercase;
-	padding: 5px 12px;
+	padding: 7.5px 12px 5px;
 }
 
 .display-4 {
