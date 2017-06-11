@@ -572,6 +572,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/images\/Chandrashekhar.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100360,
+		"inputAbbreviatedPath": "\/assets\/images\/Chandrashekhar.png",
+		"outputAbbreviatedPath": "\/assets\/images\/Chandrashekhar.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/images\/hacksociety.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -601,6 +612,17 @@
 		"initialSize": 2566,
 		"inputAbbreviatedPath": "\/assets\/images\/More.png",
 		"outputAbbreviatedPath": "\/assets\/images\/More.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/Nishant.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 96890,
+		"inputAbbreviatedPath": "\/assets\/images\/Nishant.png",
+		"outputAbbreviatedPath": "\/assets\/images\/Nishant.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
