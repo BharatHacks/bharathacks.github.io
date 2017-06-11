@@ -451,6 +451,61 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/images\/Abhinav.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 117145,
+		"inputAbbreviatedPath": "\/assets\/images\/Abhinav.png",
+		"outputAbbreviatedPath": "\/assets\/images\/Abhinav.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/Abhishek.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 104453,
+		"inputAbbreviatedPath": "\/assets\/images\/Abhishek.png",
+		"outputAbbreviatedPath": "\/assets\/images\/Abhishek.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/Amanjot.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 101186,
+		"inputAbbreviatedPath": "\/assets\/images\/Amanjot.png",
+		"outputAbbreviatedPath": "\/assets\/images\/Amanjot.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/Anand.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91215,
+		"inputAbbreviatedPath": "\/assets\/images\/Anand.png",
+		"outputAbbreviatedPath": "\/assets\/images\/Anand.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/Anil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105383,
+		"inputAbbreviatedPath": "\/assets\/images\/Anil.png",
+		"outputAbbreviatedPath": "\/assets\/images\/Anil.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/images\/bg-num.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -495,6 +550,83 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/images\/hacksociety.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13848,
+		"inputAbbreviatedPath": "\/assets\/images\/hacksociety.png",
+		"outputAbbreviatedPath": "\/assets\/images\/hacksociety.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/Mohammed.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108632,
+		"inputAbbreviatedPath": "\/assets\/images\/Mohammed.png",
+		"outputAbbreviatedPath": "\/assets\/images\/Mohammed.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/More.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2566,
+		"inputAbbreviatedPath": "\/assets\/images\/More.png",
+		"outputAbbreviatedPath": "\/assets\/images\/More.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/Paritosh.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 117414,
+		"inputAbbreviatedPath": "\/assets\/images\/Paritosh.png",
+		"outputAbbreviatedPath": "\/assets\/images\/Paritosh.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/Saransh.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100426,
+		"inputAbbreviatedPath": "\/assets\/images\/Saransh.png",
+		"outputAbbreviatedPath": "\/assets\/images\/Saransh.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/Shiva.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 118780,
+		"inputAbbreviatedPath": "\/assets\/images\/Shiva.png",
+		"outputAbbreviatedPath": "\/assets\/images\/Shiva.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/Shivam.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115006,
+		"inputAbbreviatedPath": "\/assets\/images\/Shivam.png",
+		"outputAbbreviatedPath": "\/assets\/images\/Shivam.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/logos\/91springboard.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -513,6 +645,39 @@
 		"initialSize": 44023,
 		"inputAbbreviatedPath": "\/assets\/logos\/aadhaar.png",
 		"outputAbbreviatedPath": "\/assets\/logos\/aadhaar.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/logos\/bizztor.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20364,
+		"inputAbbreviatedPath": "\/assets\/logos\/bizztor.png",
+		"outputAbbreviatedPath": "\/assets\/logos\/bizztor.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/logos\/caseminister.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 750940,
+		"inputAbbreviatedPath": "\/assets\/logos\/caseminister.png",
+		"outputAbbreviatedPath": "\/assets\/logos\/caseminister.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/logos\/chaaipani.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3536,
+		"inputAbbreviatedPath": "\/assets\/logos\/chaaipani.png",
+		"outputAbbreviatedPath": "\/assets\/logos\/chaaipani.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -601,6 +766,17 @@
 		"initialSize": 2431,
 		"inputAbbreviatedPath": "\/assets\/logos\/flairlift.png",
 		"outputAbbreviatedPath": "\/assets\/logos\/flairlift.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/logos\/hackerearth.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9843,
+		"inputAbbreviatedPath": "\/assets\/logos\/hackerearth.png",
+		"outputAbbreviatedPath": "\/assets\/logos\/hackerearth.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -726,6 +902,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/logos\/startupdelhi.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8469,
+		"inputAbbreviatedPath": "\/assets\/logos\/startupdelhi.png",
+		"outputAbbreviatedPath": "\/assets\/logos\/startupdelhi.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/logos\/startupnexus.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -805,6 +992,15 @@
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 1,
 		"useLibsass": 0
+		},
+	"\/direct.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/direct.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/index.html": {
 		"fileType": 8192,
