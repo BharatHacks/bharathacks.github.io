@@ -473,6 +473,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/images\/Aditi.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 130071,
+		"inputAbbreviatedPath": "\/assets\/images\/Aditi.png",
+		"outputAbbreviatedPath": "\/assets\/images\/Aditi.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/images\/Amanjot.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -546,6 +557,17 @@
 		"initialSize": 29076,
 		"inputAbbreviatedPath": "\/assets\/images\/bg3.png",
 		"outputAbbreviatedPath": "\/assets\/images\/bg3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/Bharat.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 135122,
+		"inputAbbreviatedPath": "\/assets\/images\/Bharat.png",
+		"outputAbbreviatedPath": "\/assets\/images\/Bharat.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
